@@ -22,3 +22,5 @@ var isSquare = function(n){
    //Better coding 
 
    const isSquareToo = n => Math.sqrt(n) % 1 === 0
+
+   //03/09/2023
