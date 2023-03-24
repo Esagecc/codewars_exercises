@@ -19,3 +19,5 @@ function indexWrong(array, n){
 //I was not able to solve it so I looked into the solution. Here is the best solution. 
 
 const index = (array, n) => array.length > n ? Math.pow(array[n], n) : -1;
+
+//03/23/2023
