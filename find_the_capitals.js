@@ -11,3 +11,5 @@ var capitals = function (word) {
 
 
 const capitals2 = word => { return word.match(/[A-Z]/g).map( x => { return word.indexOf(x) }) }
+
+//04/10/2023
